@@ -4,3 +4,41 @@
 	
 前段
     vue+element
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	文件夹
+	   books                 小写
+	api 
+	    HomeApi.js        首字母大写
+	页面
+	  HomeList.vue      首字母大写
+	css
+	     listItem             模块       小写
+	     list-item            层级      中划线
+	     list_item           状态       下划线
+	     m-listItem        组件       加前缀
+	JS
+	    navHome         函数       第二单词大写     
+	
+	     
